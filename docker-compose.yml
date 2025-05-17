@@ -1,0 +1,25 @@
+
+services:
+  orderservice:
+    build:
+      context: .
+      dockerfile: OrderService/Dockerfile
+    ports:
+      - "5001:80"
+  stockservice:
+    build:
+      context: .
+      dockerfile: StockService/Dockerfile
+    ports:
+      - "5002:80"
+  notificationservice:
+    build:
+      context: .
+      dockerfile: NotificationService/Dockerfile
+    ports:
+      - "5003:80"
+  rabbitmq:
+    image: rabbitmq:3-management
+    ports:
+      - "5672:5672"
+      - "15672:15672"
