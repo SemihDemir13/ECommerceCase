@@ -1,0 +1,12 @@
+C:\Users\yunus\ECommerceCase\Libraries\bin\Debug\net8.0\Libraries.deps.json
+C:\Users\yunus\ECommerceCase\Libraries\bin\Debug\net8.0\Libraries.dll
+C:\Users\yunus\ECommerceCase\Libraries\bin\Debug\net8.0\Libraries.pdb
+C:\Users\yunus\ECommerceCase\Libraries\obj\Debug\net8.0\Libraries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yunus\ECommerceCase\Libraries\obj\Debug\net8.0\Libraries.AssemblyInfoInputs.cache
+C:\Users\yunus\ECommerceCase\Libraries\obj\Debug\net8.0\Libraries.AssemblyInfo.cs
+C:\Users\yunus\ECommerceCase\Libraries\obj\Debug\net8.0\Libraries.csproj.CoreCompileInputs.cache
+C:\Users\yunus\ECommerceCase\Libraries\obj\Debug\net8.0\Libraries.sourcelink.json
+C:\Users\yunus\ECommerceCase\Libraries\obj\Debug\net8.0\Libraries.dll
+C:\Users\yunus\ECommerceCase\Libraries\obj\Debug\net8.0\refint\Libraries.dll
+C:\Users\yunus\ECommerceCase\Libraries\obj\Debug\net8.0\Libraries.pdb
+C:\Users\yunus\ECommerceCase\Libraries\obj\Debug\net8.0\ref\Libraries.dll

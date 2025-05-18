@@ -1,0 +1,13 @@
+C:\Users\yunus\ECommerceCase\Eventing\bin\Debug\net8.0\Eventing.deps.json
+C:\Users\yunus\ECommerceCase\Eventing\bin\Debug\net8.0\Eventing.dll
+C:\Users\yunus\ECommerceCase\Eventing\bin\Debug\net8.0\Eventing.pdb
+C:\Users\yunus\ECommerceCase\Eventing\obj\Debug\net8.0\Eventing.csproj.AssemblyReference.cache
+C:\Users\yunus\ECommerceCase\Eventing\obj\Debug\net8.0\Eventing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yunus\ECommerceCase\Eventing\obj\Debug\net8.0\Eventing.AssemblyInfoInputs.cache
+C:\Users\yunus\ECommerceCase\Eventing\obj\Debug\net8.0\Eventing.AssemblyInfo.cs
+C:\Users\yunus\ECommerceCase\Eventing\obj\Debug\net8.0\Eventing.csproj.CoreCompileInputs.cache
+C:\Users\yunus\ECommerceCase\Eventing\obj\Debug\net8.0\Eventing.sourcelink.json
+C:\Users\yunus\ECommerceCase\Eventing\obj\Debug\net8.0\Eventing.dll
+C:\Users\yunus\ECommerceCase\Eventing\obj\Debug\net8.0\refint\Eventing.dll
+C:\Users\yunus\ECommerceCase\Eventing\obj\Debug\net8.0\Eventing.pdb
+C:\Users\yunus\ECommerceCase\Eventing\obj\Debug\net8.0\ref\Eventing.dll

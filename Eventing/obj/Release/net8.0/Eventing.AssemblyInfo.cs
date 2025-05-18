@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Eventing")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aa7488785e526a62ed109ec30de650b8926cb951")]
 [assembly: System.Reflection.AssemblyProductAttribute("Eventing")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Eventing")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
