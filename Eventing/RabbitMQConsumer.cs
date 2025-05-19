@@ -1,9 +1,9 @@
-﻿using RabbitMQ.Client; // RabbitMQ ile bağlantı kurmak için gerekli kütüphane
-using RabbitMQ.Client.Events; // RabbitMQ'dan mesajları dinlemek için gerekli kütüphane
-using System.Text; // Mesajı byte dizisinden string'e çevirmek için gerekli
+﻿using RabbitMQ.Client;
+using RabbitMQ.Client.Events; 
+using System.Text; 
 
 namespace Eventing
-{
+{ //consumer belirtiğimiz kuyruğu dinliyor ve gelen mesajı dışarıya iletiyor
     public class RabbitMQConsumer
     {
         private readonly string _hostname; // RabbitMQ sunucusunun adresi

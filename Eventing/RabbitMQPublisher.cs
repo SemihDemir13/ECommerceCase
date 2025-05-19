@@ -1,8 +1,8 @@
-﻿using RabbitMQ.Client; // RabbitMQ ile bağlantı kurmak için gerekli kütüphane
-using System.Text; // Mesajı byte dizisine çevirmek için gerekli
+﻿using RabbitMQ.Client; 
+using System.Text; 
 
 namespace Eventing
-{
+{   //publisher mesajı belirtiğimiz kuyruğa  gönderiyor 
     public class RabbitMQPublisher
     {
         private readonly string _hostname; // RabbitMQ sunucusunun adresi

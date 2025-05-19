@@ -32,3 +32,8 @@ C:\Users\yunus\ECommerceCase\OrderService\obj\Debug\net8.0\refint\OrderService.d
 C:\Users\yunus\ECommerceCase\OrderService\obj\Debug\net8.0\OrderService.pdb
 C:\Users\yunus\ECommerceCase\OrderService\obj\Debug\net8.0\OrderService.genruntimeconfig.cache
 C:\Users\yunus\ECommerceCase\OrderService\obj\Debug\net8.0\ref\OrderService.dll
+C:\Users\yunus\ECommerceCase\OrderService\bin\Debug\net8.0\RabbitMQ.Client.dll
+C:\Users\yunus\ECommerceCase\OrderService\bin\Debug\net8.0\Eventing.dll
+C:\Users\yunus\ECommerceCase\OrderService\bin\Debug\net8.0\Eventing.pdb
+C:\Users\yunus\ECommerceCase\OrderService\bin\Debug\net8.0\Libraries.dll
+C:\Users\yunus\ECommerceCase\OrderService\bin\Debug\net8.0\Libraries.pdb
